@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { NavLink } from './NavLink';
 
 import styles from './Navigation.module.css';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 import closeIcon from '@/public/close.svg';
 import menuIcon from '@/public/menu.svg';
@@ -13,8 +13,7 @@ import menuIcon from '@/public/menu.svg';
 // menu name and link
 const menu = [
   { text: 'Home', link: '/' },
-  { text: 'About', link: '/about'},
-  { text: 'Contact', link: '/contact' }
+  { text: 'Contact', link: '/contact'}
 ];
 
 

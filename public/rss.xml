@@ -4,7 +4,7 @@
         <title>DevGasy blog posts | RSS Feed</title>
         <link>localhost:3000/rss.xml</link>
         <description>Easy web development with our experiences</description>
-        <lastBuildDate>Mon, 11 Sep 2023 14:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 15:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
