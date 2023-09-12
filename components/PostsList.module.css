@@ -1,0 +1,12 @@
+.title {
+    margin-bottom: 20px;
+}
+
+@media (min-width: 800px) {
+    .postListWrapper {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        column-gap: 60px;
+        row-gap: 40px;
+    }
+}

@@ -1,0 +1,12 @@
+.wrapper {
+    position: relative;
+}
+
+.copyButton {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    background-color: rgba(56, 55, 55, .6);
+    padding: 5px;
+    color: #ffffff9c;
+}

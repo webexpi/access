@@ -1,0 +1,16 @@
+.navItem {
+    width: 100%;
+    padding: 10px 20px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.navItem a {
+    color: var(--text-color);
+    font-weight: lighter;
+}
+
+.navItemActive {
+    background-color: #f2f2f2e6;
+    border-radius: 10px;
+}

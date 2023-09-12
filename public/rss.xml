@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>DevGasy blog posts | RSS Feed</title>
+        <link>localhost:3000/rss.xml</link>
+        <description>Easy web development with our experiences</description>
+        <lastBuildDate>Mon, 11 Sep 2023 14:14:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>DevGasy blog posts | RSS Feed</title>
+            <url>localhost:3000/devgasy.png</url>
+            <link>localhost:3000/rss.xml</link>
+        </image>
+        <copyright>All rights reserved 2023, DevGasy</copyright>
+        <item>
+            <title><![CDATA[Conversations with London Makr & Cro]]></title>
+            <link>localhost:3000/web//web/another</link>
+            <guid>localhost:3000/web//web/another</guid>
+            <pubDate>Sat, 06 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We sat down with London’s fast-growing brand and product design studio, Makr & Co. to find out how they’ve used Untitled UI to 2x their...]]></description>
+            <content:encoded><![CDATA[
+This is an article post.
+
+# We love coding.. Cheers to everyone
+
+## Sub-Heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis odio orci, ullamcorper non enim in, egestas aliquam turpis. Maecenas id interdum lacus. Donec ornare consequat lectus ac faucibus. Curabitur ligula dolor, egestas non semper vel, euismod at mauris.
+
+Nullam congue eros quam, id consequat augue ornare sit amet. Mauris id lectus nec tellus eleifend luctus. Sed mattis lacus in mauris suscipit posuere. Phasellus varius aliquet faucibus. Vestibulum tempus mauris nec pulvinar cursus.
+
+## Link
+
+Here's a [link](/contact) to the contact page `await`
+
+## Image
+
+![Sample Image](/assets/example.jpg)
+
+## Code
+
+```javascript
+function helloWorld() {
+  console.log("Hello, world!");
+}
+```
+
+# Thank you for the test
+
+What do you think of those things?
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Conversations with London Makr & Cro]]></title>
+            <link>localhost:3000/web//web/article_06</link>
+            <guid>localhost:3000/web//web/article_06</guid>
+            <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[We sat down with London’s fast-growing brand and product design studio, Makr & Co. to find out how they’ve used Untitled UI to 2x their...]]></description>
+            <content:encoded><![CDATA[
+This is an article post.
+
+## Sub-Heading
+
+Quisque ornare blandit pretium. Donec vel eleifend felis. Suspendisse cursus laoreet gravida. Phasellus vitae mollis ante. Suspendisse sit amet magna sit amet dolor pretium pharetra vitae at odio. Quisque sollicitudin ipsum nec ullamcorper posuere. Etiam pulvinar hendrerit tortor a ultrices.
+
+Nulla facilisi. Nulla at massa eget arcu sollicitudin blandit in eget turpis. Suspendisse nibh erat, hendrerit quis rhoncus quis, dignissim ullamcorper erat.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Conversations with London Makr & Cro]]></title>
+            <link>localhost:3000/web//web/article_05</link>
+            <guid>localhost:3000/web//web/article_05</guid>
+            <pubDate>Sun, 04 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[We sat down with London’s fast-growing brand and product design studio, Makr & Co. to find out how they’ve used Untitled UI to 2x their...]]></description>
+            <content:encoded><![CDATA[
+This is an article post.
+
+## Sub-Heading
+
+Ut eu magna fermentum, mollis dui vel, semper mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse quis porta justo. Donec dictum, dolor ac congue sodales, ipsum arcu mattis felis, eu molestie metus erat eget tortor.
+
+Fusce in augue vitae dui ullamcorper vestibulum. Donec aliquam hendrerit ultricies. Aliquam non ipsum ut dui aliquet congue.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Conversations with London Makr & Cro]]></title>
+            <link>localhost:3000/web//web/article_04</link>
+            <guid>localhost:3000/web//web/article_04</guid>
+            <pubDate>Sun, 04 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[We sat down with London’s fast-growing brand and product design studio, Makr & Co. to find out how they’ve used Untitled UI to 2x their...]]></description>
+            <content:encoded><![CDATA[
+This is an article post.
+
+## Sub-Heading
+
+Quisque eget viverra enim, ac vehicula lectus. Nulla mollis sem sed sapien imperdiet tempus. Vestibulum commodo fermentum sem, in tempus nunc ultricies vitae. Aliquam placerat sodales tincidunt.
+
+Morbi a nisl nec leo iaculis laoreet a molestie nisl. Quisque in neque non purus fermentum dictum volutpat nec ex. Pellentesque blandit sapien vel nibh tempus, at rhoncus turpis elementum.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Conversations with London Makr & Cro]]></title>
+            <link>localhost:3000/web//web/article_03</link>
+            <guid>localhost:3000/web//web/article_03</guid>
+            <pubDate>Sat, 03 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[We sat down with London’s fast-growing brand and product design studio, Makr & Co. to find out how they’ve used Untitled UI to 2x their...]]></description>
+            <content:encoded><![CDATA[
+This is an article post.
+
+## Sub-Heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis odio orci, ullamcorper non enim in, egestas aliquam turpis. Maecenas id interdum lacus. Donec ornare consequat lectus ac faucibus. Curabitur ligula dolor, egestas non semper vel, euismod at mauris.
+
+Nullam congue eros quam, id consequat augue ornare sit amet. Mauris id lectus nec tellus eleifend luctus. Sed mattis lacus in mauris suscipit posuere. Phasellus varius aliquet faucibus. Vestibulum tempus mauris nec pulvinar cursus.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Conversations with London Makr & Cro]]></title>
+            <link>localhost:3000/web//web/article_02</link>
+            <guid>localhost:3000/web//web/article_02</guid>
+            <pubDate>Fri, 02 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[We sat down with London’s fast-growing brand and product design studio, Makr & Co. to find out how they’ve used Untitled UI to 2x their...]]></description>
+            <content:encoded><![CDATA[
+This is an article post.
+
+## Sub-Heading
+
+Donec viverra tincidunt tortor, eget feugiat ligula faucibus id. Donec venenatis ipsum non pharetra molestie. Sed tempor efficitur efficitur.
+
+Sed consectetur porta erat, non consequat magna lobortis vitae. Cras velit orci, tempus ac luctus at, elementum viverra diam. Donec blandit tellus non ante condimentum, sit amet efficitur purus eleifend. Nulla luctus odio ac ipsum posuere vulputate.
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>

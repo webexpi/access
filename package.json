@@ -11,8 +11,16 @@
   "dependencies": {
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
+    "gray-matter": "^4.0.3",
     "next": "13.4.19",
+    "prism-react-renderer": "^2.0.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.7",
+    "react-syntax-highlighter": "^15.5.0",
+    "sharp": "^0.32.5"
+  },
+  "devDependencies": {
+    "feed": "^4.2.2"
   }
 }

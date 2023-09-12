@@ -1,0 +1,19 @@
+.blogPostContainer {
+    padding: var(--primary-space) var(--secondary-space);
+}
+
+.blogPostContainer img {
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+
+.blogPostContainer code {
+    background-color: aliceblue;
+    color: #A80000;
+    padding: 2px;
+}
+
+.blogPostContainer pre code {
+    overflow-y: auto;
+}
