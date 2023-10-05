@@ -74,6 +74,7 @@ h1 {
     margin: calc(var(--primary-space)*2) auto;
     font-size: var(--title-font-size);
     font-weight: bolder;
+    line-height: 40px;
 }
 
 h2, h3 {

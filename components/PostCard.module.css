@@ -27,11 +27,17 @@
     /* line-height: 26px; */
 }
 
-@media (min-width: 650px) and (max-width: 800px) {
+@media (min-width: 750px) and (max-width: 800px) {
     .container {
         display: grid;
         grid-template-columns: 1fr 1fr;
         align-items: center;
         gap: 40px;
+    }
+}
+
+@media (min-width: 800px) {
+    .card {
+        max-width: 400px;
     }
 }
