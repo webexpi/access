@@ -3,7 +3,7 @@ import path from 'path';
 import { Feed } from "feed";
 import { getRecentPosts } from "./markdown";
 
-const site_url = 'localhost:3000';
+const site_url = 'https://www.devgasy.com';
 
 export const generateRssFeed = async () => {
     const allPosts = await getRecentPosts('/content');
@@ -21,13 +21,12 @@ export const generateRssFeed = async () => {
 
     const myFeed = new Feed(options);
 
-    allPosts.forEach(({content, frontMatter}) => {
+    allPosts.forEach(({ _, frontMatter}) => {
         myFeed.addItem({
          title: frontMatter.title,
          description: frontMatter.description,
-         id: `${site_url}/web/${frontMatter.slug}`,
-         link: `${site_url}/web/${frontMatter.slug}`,
-         content: content,
+         id: `${site_url}${frontMatter.slug}`,
+         link: `${site_url}${frontMatter.slug}`,
          date: frontMatter.date,
         });
     });
